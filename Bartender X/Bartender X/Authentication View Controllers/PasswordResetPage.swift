@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  PasswordResetPage.swift
 //  Bartender X
 //
-//  Created by obss on 6.03.2023.
+//  Created by ozgur.atak on 21.03.2023.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class PasswordResetPage: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        hideKeyboardWhenTappedAround()
         // Do any additional setup after loading the view.
     }
 
-
 }
-
